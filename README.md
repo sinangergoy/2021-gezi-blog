@@ -4,6 +4,7 @@
 
 # Geliştirici
 >Sinan GERGÖY
+
 Mail: sinangergoy9@gmail.com Linkedin: https://www.linkedin.com/in/sinangergoy
 
 
